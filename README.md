@@ -1,6 +1,6 @@
 # Grade-Checking-System
 Online student grade checking system in PHP.
-# Enter your Points
+## Enter your Points
 ![picture](before.PNG)
-# Results
+## Results
 ![picture](after.PNG)
